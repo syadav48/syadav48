@@ -2,6 +2,8 @@
 
 **A passionate frontend developer from India.**
 
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=syadav48.syadav48)
+
 - 🔭 I’m currently working on UP-FASTPAS Project.
 - 👨‍💻 Know about my experiences and projects at [My Portfolio](https://my-portfolio-l3sxj4prd-suryoday-yadavs-projects.vercel.app).
 - 👯 I’m looking to collaborate with other developers.
