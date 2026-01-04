@@ -1,6 +1,6 @@
 # Hi there, I'm Suryoday! 👋
 
-**Senior Software Developer | React(FrontEnd)  & Java (Backend)**
+**Senior Software Developer | React(Frontend)  & Java (Backend)**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syadav48&color=blue)
 
